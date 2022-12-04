@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Github Stats](https://github-readme-stats.vercel.app/api?username=coderfix-lab&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jinluzhang1126&show_icons=true&theme=dark&count_private=true)
 <!--
 **JinluZhang1126/Jinluzhang1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
