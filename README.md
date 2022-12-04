@@ -1,12 +1,12 @@
-<!-- ### Hi there 👋
+### Hi there 👋, here is my github profile page, welcome to communicate with me.
 
-My Github Stats:
+<!-- My Github Stats:
 <br> -->
 
 <!-- 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jinluzhang1126&left_color=red&right_color=green) -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jinluzhang1126&show_icons=true&count_private=false&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=jinluzhang1126&show_icons=true&count_private=false&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true) -->
 
 <!--
 **JinluZhang1126/Jinluzhang1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
